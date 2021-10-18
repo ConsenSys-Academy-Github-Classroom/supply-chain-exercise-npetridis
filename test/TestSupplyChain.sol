@@ -5,7 +5,7 @@ import "truffle/DeployedAddresses.sol";
 import "../contracts/SupplyChain.sol";
 
 contract TestSupplyChain {
-
+    
     // Test for failing conditions in this contracts:
     // https://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests
 
